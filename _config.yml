@@ -1,0 +1,7 @@
+title: "Passion Project Blog"
+description: "Research, notes & experiments"
+theme: minima
+markdown: kramdown
+author: Justin Van Dijck
+plugins:
+  - jekyll-feed
