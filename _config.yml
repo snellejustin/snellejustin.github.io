@@ -3,5 +3,6 @@ description: "Research, notes & experiments"
 theme: minima
 markdown: kramdown
 author: Justin Van Dijck
+future: true
 plugins:
   - jekyll-feed
