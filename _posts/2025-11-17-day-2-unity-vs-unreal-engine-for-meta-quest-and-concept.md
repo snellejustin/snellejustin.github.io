@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 2 — Unity vs Unreal Engine for Meta Quest + concept"
+title: "Day 2 — Unity vs Unreal Engine for Meta Quest and concept"
 date: 2025-11-17
 ---
 
