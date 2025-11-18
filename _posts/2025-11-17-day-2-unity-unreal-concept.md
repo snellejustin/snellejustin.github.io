@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 2 — Unity vs Unreal Engine for Meta Quest + concept"
-date: 2025-11-12
+date: 2025-11-17
 ---
 
 **What I learned**
