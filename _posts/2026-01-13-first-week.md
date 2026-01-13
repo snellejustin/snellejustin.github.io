@@ -1,4 +1,8 @@
-layout: post title: "Day 8 — Mechanics: Welding, Shooting, and Spawning" date: 2026-01-13
+---
+
+layout: post 
+title: "Day 8 — Mechanics: Welding, Shooting, and Spawning" 
+date: 2026-01-13
 
 ---
 
