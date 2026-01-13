@@ -2,7 +2,7 @@
 
 layout: post 
 title: "week 1 — Mechanics: Welding, Shooting, and Spawning" 
-date: 2026-01-13
+date: 2026-01-12
 
 ---
 
