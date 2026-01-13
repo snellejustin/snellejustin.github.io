@@ -21,8 +21,8 @@ The goal was to make the shooting feel responsive and satisfying ("welding" the 
 ---
 
 ## 1. The Thermal Lance (Hold-to-Shoot)
-The first step was refining the shooting mechanic.
-Initially, the beam was a simple toggle. I changed this to a hold-to-shoot system to mimic the feeling of operating a heavy industrial tool
+The first step was refining the shooting mechanic. Initially, the beam was a simple toggle. 
+I changed this to a hold-to-shoot system to mimic the feeling of operating a heavy industrial tool
 
 **Input Handling**: Used OVRInput.GetDown and GetUp to track the trigger state.
 Continuous Update: While the button is held, the beam's position updates every frame to follow the controller.
