@@ -36,6 +36,7 @@ I created a script called RuntimeNavmeshBuilder to handle this dynamic baking.
 
 **How It Works**
 Integration with MRUK: The script registers a callback with the Meta MR Utility Kit (MRUK). It waits for the SceneLoaded event, which fires once the Quest has finished scanning and loading the room geometry.
+
 Building the Mesh: Once the scene is ready, it calls navMeshSurface.BuildNavMesh(). This function (from Unity's AI Navigation package) analyzes the newly created room mesh and calculates where agents can walk.
 Result: The real-world floor becomes a valid pathfinding surface, and furniture becomes obstacles that enemies must walk around.
 
