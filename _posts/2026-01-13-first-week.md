@@ -8,7 +8,7 @@ layout: post title: "Day 8 — Mechanics: Welding, Shooting, and Spawning" date:
 
 ---
 
-##Overview
+## Overview
 Over the last few days, I moved from concept to concrete implementation.
 I focused on the core interaction loop: firing the Thermal Lance and spawning enemies.
 
@@ -16,7 +16,7 @@ The goal was to make the shooting feel responsive and satisfying ("welding" the 
 
 ---
 
-##1. The Thermal Lance (Hold-to-Shoot)
+## 1. The Thermal Lance (Hold-to-Shoot)
 The first step was refining the shooting mechanic.
 Initially, the beam was a simple toggle. I changed this to a hold-to-shoot system to mimic the feeling of operating a heavy industrial tool
 
@@ -26,7 +26,7 @@ Audio Sync: The "welding" sound loops only while firing and cuts off immediately
 
 ---
 
-##2. Visual Feedback: The "Welding" Effect
+## 2. Visual Feedback: The "Welding" Effect
 I wanted the player to feel like they were physically heating up the walls.
 Simply spawning a particle effect every frame was too performance-heavy (60+ objects per second!), and spawning just one object didn't leave a trail.
 
@@ -42,7 +42,7 @@ This creates a smooth, continuous "weld" line that looks great but stays perform
 
 ---
 
-##3. Enemy Spawning (MR Utility Kit)
+## 3. Enemy Spawning (MR Utility Kit)
 To make the "iceblobs" feel like they are breaking into the room, they need to spawn on the walls, not just in mid-air.
 
 Using Meta MR Utility Kit (MRUK)
@@ -55,7 +55,7 @@ Now, enemies pop out of the actual physical walls of my living room! (still in p
 
 ---
 
-##4. Project Hygiene
+## 4. Project Hygiene
 As the project grew, the repository got cluttered. I took some time to clean up the Git history.
 
 **Gitignore**: Added rules to ignore build artifacts, crash dumps, and library folders.
@@ -63,7 +63,7 @@ Repo Structure: Removed nested repositories to keep the history clean and linear
 
 ---
 
-##5. Unity
+## 5. Unity
 **Understanding the UI**: Since the Unity software is completely new to me it took me some time to get used to it. I'm following tutorials
 on youtube in which the 'teacher' explains what he's doing very well, but it ofcourse still takes time to remember where to find certain buttons or different tabs.
 Up until now i haven't had many setbacks, let's hope it stays that way!
@@ -74,6 +74,6 @@ Once the game grows and the builds take longer, i might have to reconsider how t
 
 ---
 
-##6. References
+## 6. References
 https://www.youtube.com/watch?v=pZ5vLcyjois&t=1574s --> 2,5h long tutorial that explains the basics of make a meta quest game in unity
 Unity Docs & Meta Docs
