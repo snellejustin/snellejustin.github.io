@@ -1,8 +1,8 @@
 ---
 
 layout: post 
-title: "Day 10 & 11 — Combat & enemies dying" 
-date: 2026-01-15
+title: "Day 12 — Working with Unity shader" 
+date: 2026-01-16
 
 ---
 
