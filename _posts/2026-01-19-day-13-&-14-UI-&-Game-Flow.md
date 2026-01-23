@@ -2,7 +2,7 @@
 
 layout: post 
 title: "Day 13 & 14 — UI & Game Flow"
-date: 2026-01-22
+date: 2026-01-20
 
 ---
 
