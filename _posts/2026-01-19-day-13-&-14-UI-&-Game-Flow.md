@@ -6,9 +6,9 @@ date: 2026-01-22
 
 ---
 
-**Platform:** Meta Quest 3 (Unity)
-**Genre:** Mixed Reality Survival Shooter
-**Theme:** North Pole Containment / Thermal Defense
+**Platform:** Meta Quest 3 (Unity)  
+**Genre:** Mixed Reality Survival Shooter  
+**Theme:** North Pole Containment / Thermal Defense  
 
 ---
 
