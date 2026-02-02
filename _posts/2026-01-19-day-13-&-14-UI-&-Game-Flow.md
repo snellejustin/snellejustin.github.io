@@ -64,3 +64,9 @@ You put on the headset, see a floating "Start" button, click it, and your contro
 
 ## 5. Unity
 ![screenshot of start ui in unity](/assets/ui-canvas.png)
+
+---
+
+## 6. Resources
+
+https://www.youtube.com/watch?v=iVfa_azjnNI
