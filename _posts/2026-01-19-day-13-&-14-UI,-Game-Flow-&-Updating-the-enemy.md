@@ -1,7 +1,7 @@
 ---
 
 layout: post 
-title: "Day 13 & 14 — UI & Game Flow"
+title: "Day 13 & 14 — UI, Game Flow & updating the enemy"
 date: 2026-01-20
 
 ---
@@ -16,6 +16,7 @@ date: 2026-01-20
 A game isn't a game if you can't lose.
 Up until now, we had the melting of enemies and enemies that spawned, but no real "Game Loop." 
 Sunday and Monday were dedicated to wrapping the core mechanics in a proper structure: Start Screens, Game Over states, and the logic to switch between them.
+Another small chenge i made was making the enemy blob vertex points move to make it feel more alive. This went quite quick without too many issues.
 
 ---
 
@@ -59,6 +60,7 @@ Instead of a health bar, you lose if you let the infestation get out of control.
 ## 4. Result
 We now have a full, playable loop.
 You put on the headset, see a floating "Start" button, click it, and your controller transforms into a Thermal Lance. You fight to keep the population down, and if you get overwhelmed, the system shuts down and resets. 
+The enemies look more alive
 
 ---
 
@@ -70,3 +72,4 @@ You put on the headset, see a floating "Start" button, click it, and your contro
 ## 6. Resources
 
 https://www.youtube.com/watch?v=iVfa_azjnNI
+https://www.youtube.com/watch?v=2KSLO9JnxHA
