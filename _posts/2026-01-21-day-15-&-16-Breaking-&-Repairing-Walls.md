@@ -56,3 +56,8 @@ It makes the room feel like part of the game rather than just a background.
 ## 4. Unity
 ![screenshot of skybox in unity](/assets/skybox-unity.png)
 
+---
+
+## 5. Resources
+
+https://www.youtube.com/watch?v=FepNBOXLo9Y
